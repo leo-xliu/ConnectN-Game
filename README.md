@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<b> This project was based on the original C++ project Connect-N that can be accessed here: 
+<b> This project was based on my original C++ project Connect-N that can be accessed here: 
 
 https://github.com/leo-xliu/CS-32-Projects/tree/main/Proj3 <b>
 
